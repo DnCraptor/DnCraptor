@@ -1,0 +1,2 @@
+#LWP-Cookies-1.0
+Set-Cookie3: SID=9854250QFBWEKDPHVGMXHDAROCJ; path="/"; domain=www.the-game.ru; path_spec; discard; version=0
